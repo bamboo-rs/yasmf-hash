@@ -1,4 +1,7 @@
-
+//! yamf-hash
+//!
+//! Encode and decode [yamf-hashes](https://github.com/AljoschaMeyer/yamf-hash)
+//!
 #![cfg_attr(not(feature = "std"), no_std)]
 
 //#[cfg(not(feature = "std"))]
