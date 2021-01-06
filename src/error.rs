@@ -1,4 +1,6 @@
-#[derive(Debug, Clone, Serialize)]
+use snafu::Snafu;
+
+#[derive(Debug, Clone,Snafu, Serialize)]
 #[repr(C)]
 pub enum Error {
     EncodeError,
