@@ -1,6 +1,6 @@
 [package]
 name = "yamf-hash"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Piet Geursen <pietgeursen@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/bamboo-rs/yamf-hash"
